@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://choyon-nath-portfolio.example.com/sitemap.xml

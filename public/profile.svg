@@ -1,0 +1,20 @@
+<svg width="400" height="500" viewBox="0 0 400 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="400" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#151F35"/>
+      <stop offset="1" stop-color="#10182A"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="80" y1="140" x2="320" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7565FF"/>
+      <stop offset="1" stop-color="#39D9FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="500" rx="20" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="399" height="499" rx="19.5" stroke="#293650"/>
+  <circle cx="200" cy="220" r="110" stroke="url(#ring)" stroke-width="2" opacity="0.4"/>
+  <circle cx="200" cy="220" r="85" stroke="url(#ring)" stroke-width="2" opacity="0.6"/>
+  <circle cx="200" cy="220" r="60" fill="url(#ring)" opacity="0.15"/>
+  <text x="200" y="235" font-family="'Space Grotesk', sans-serif" font-size="48" font-weight="700" fill="url(#ring)" text-anchor="middle">CN</text>
+  <text x="200" y="400" font-family="'Inter', sans-serif" font-size="18" font-weight="500" fill="#A7B4CD" text-anchor="middle">Profile Photo Placeholder</text>
+  <text x="200" y="425" font-family="'Inter', sans-serif" font-size="13" font-weight="400" fill="#A7B4CD" text-anchor="middle" opacity="0.6">Replace public/profile.jpg with your photo</text>
+</svg>
