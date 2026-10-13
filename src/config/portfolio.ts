@@ -18,7 +18,7 @@ export const profile = {
   profileImage: '/FB_IMG_1791894269594 copy.jpg',
   // Set this to a real email address to enable the contact form and email link.
   // Leave as empty string to keep email-dependent features hidden.
-  email: '',
+  email: 'choyonxyz@gmail.com',
   // Canonical URL — update after you choose a custom domain.
   // Leave empty to use a relative canonical link.
   canonicalUrl: '',
